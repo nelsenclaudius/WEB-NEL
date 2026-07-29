@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFF0F0"/>
+      <stop offset="100%" stop-color="#FFEAEA"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <rect x="120" y="180" width="960" height="420" rx="32" fill="#FFFFFF" stroke="#D8474B" stroke-width="14"/>
+  <path d="M220 560 L320 360 L420 560 Z" fill="#D8474B"/>
+  <path d="M470 560 L570 300 L670 560 Z" fill="#F48A8D"/>
+  <path d="M720 560 L820 340 L920 560 Z" fill="#D8474B"/>
+  <text x="50%" y="720" dominant-baseline="middle" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="48" fill="#B22B32">Gedung UnTar</text>
+</svg>
